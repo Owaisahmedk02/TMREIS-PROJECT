@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+numpy
+xlsxwriter
+openpyxl
+openai==0.28
+statsmodels
